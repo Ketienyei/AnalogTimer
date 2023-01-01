@@ -1,3 +1,3 @@
 # AnalogTimer
 modified some files
-update
+updated 
